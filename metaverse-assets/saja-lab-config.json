@@ -1,0 +1,14 @@
+{
+  "facility_name": "Saja Lab Virtual Innovation Centre",
+  "environment_type": "Phygital Agricultural Research Space",
+  "access_modules": {
+    "academic_subscription": "XR educational experiences with climate narratives",
+    "farmer_training": "Virtual modules on sustainable practices and technology",
+    "innovation_lab": "Physical-to-digital testing for agritech research"
+  },
+  "educational_nfts": {
+    "count": 20,
+    "type": "Dynamic Educational NFTs",
+    "integration": "Learning Management System (LMS) compatible"
+  }
+}
