@@ -1,0 +1,16 @@
+{
+  "sensor_metadata": {
+    "provider": "Siucom",
+    "integration_layer": "Harvverse Land Intelligence"
+  },
+  "telemetry_parameters": [
+    "weather_conditions",
+    "soil_moisture_levels",
+    "real_time_rainfall_mm",
+    "crop_yield_projection"
+  ],
+  "analysis_methods": [
+    "Advanced Machine Learning",
+    "Predictive Analytics"
+  ]
+}
