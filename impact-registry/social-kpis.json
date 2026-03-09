@@ -1,0 +1,12 @@
+{
+  "educational_program": "Diploma in Digital Agronomy",
+  "success_metrics": {
+    "technical_accuracy": "RMSE ≤ 20cm in orthomosaic mapping",
+    "iot_reliability": "99.5% sensor uptime",
+    "retention_rate": "95%",
+    "participant_satisfaction": "90% NPS",
+    "environmental_compliance": "100% Zero-Deforestation area verification (Post-2020)"
+  },
+  "certification_type": "Blockchain-backed Open Badges",
+  "total_hours": 96
+}
