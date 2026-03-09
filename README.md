@@ -26,13 +26,25 @@ Scaling: Over 100 farms onboarded in 2024, with a goal of reaching 10,000 connec
 
 Global Footprint: Expanding to climate clusters in Brazil, Colombia, India, and Ethiopia.
 
-👥 Leadership Team
-Jorge Lanza: CEO.
+Strategic Roadmap
+Q1 2025 - Genesis: MVP Live, infraestructura IoT, y lanzamiento de la comunidad.
 
-Carol Guevara: CTO.
+Q2 2026 - Platform: Lanzamiento del token, onboarding de granjeros y lanzamiento de la App móvil.
+
+Q3 2027 - Token Launch: Ventas privadas/públicas y lanzamiento del juego "Play-to-earn" en el metaverso.
+
+Q4 2028 - Public Expansion: Gobernanza DAO y expansión hacia Europa y Asia.
+
+2030 - Global Leadership: Alianzas con "Network States" y ciudades autónomas para la soberanía alimentaria.
+
+👥 Leadership Team
+
+Carol Guevara: CEO.
 
 Carolina Hedman: COO Advisor.
 
+Jorge Lanza CTO 
+
 Organization: Globalyx
 
-Contact: jorge.lanza@harvverse.com | www.harvverse.com 
+Contact: caro@dtswe.com| www.harvverse.com 
