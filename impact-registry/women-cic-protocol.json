@@ -1,0 +1,11 @@
+{
+  "program_name": "Women Coffee Producers Empowerment Plan",
+  "target_audience": "Women in Agronomy and Sustainability",
+  "kpis": {
+    "income_increase": "Direct market access via Harvverse Marketplace",
+    "leadership": "35% target for female DAO participation",
+    "certification": "Blockchain-backed Open Badges"
+  },
+  "training_hours": 96,
+  "standards": ["EUDR Compliance", "ODS 5: Gender Equality", "Fair Trade"]
+}
