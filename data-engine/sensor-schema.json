@@ -1,16 +1,11 @@
 {
-  "sensor_metadata": {
-    "provider": "Siucom",
-    "integration_layer": "Harvverse Land Intelligence"
+  "lab_name": "Saja Lab Virtual Innovation Centre",
+  "sensor_types": ["CO2_Sensor", "Pluviometer", "Agro-20V", "Multispectral_Drone"],
+  "integration_layer": "Chainlink Oracles / Siucom Analytics",
+  "data_metrics": {
+    "soil_moisture": "Percentage",
+    "carbon_sequestration": "tCO2e/ha",
+    "crop_health": "NDVI_Index"
   },
-  "telemetry_parameters": [
-    "weather_conditions",
-    "soil_moisture_levels",
-    "real_time_rainfall_mm",
-    "crop_yield_projection"
-  ],
-  "analysis_methods": [
-    "Advanced Machine Learning",
-    "Predictive Analytics"
-  ]
+  "standards": ["ISO 19115 (Metadata)", "GDPR Privacy-by-design"]
 }
