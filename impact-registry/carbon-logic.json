@@ -1,0 +1,15 @@
+{
+  "market_name": "Carbon Thread Harvverse",
+  "asset_type": "cNFT (Carbon NFT)",
+  "revenue_streams": {
+    "cNFT_sales": "29.327%",
+    "carbon_credits": "67%",
+    "company_reserve": "25%",
+    "culling_fee": "10%"
+  },
+  "metrics": {
+    "traceability": "Blockchain-backed",
+    "data_source": "Siucom Analytics",
+    "verification_standard": "EUDR Compliance"
+  }
+}
