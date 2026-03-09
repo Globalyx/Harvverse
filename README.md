@@ -47,4 +47,4 @@ Jorge Lanza CTO
 
 Organization: Globalyx
 
-Contact: caro@dtswe.com| www.harvverse.com 
+Contact: caro@dtswe.com| 
