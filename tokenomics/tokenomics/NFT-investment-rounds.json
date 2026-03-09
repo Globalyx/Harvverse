@@ -1,0 +1,35 @@
+{
+  "partnership": "Telefónica Marketplace Spain",
+  "wallet_integration": "MetaMask (Web3)",
+  "investment_strategy": "Phygital asset-backed NFTs for sustainable agriculture",
+  "investment_rounds": [
+    {
+      "round_id": 1,
+      "name": "Green Rarible Tokens",
+      "unit_price_usd": 10000,
+      "max_tokens_per_investor": 1,
+      "underlying_assets": "150 coffee trees (3 years old)",
+      "contract_terms": "5 to 10 year lease agreement",
+      "utility": "Direct rights to harvest yields starting Year 5"
+    },
+    {
+      "round_id": 2,
+      "name": "Solar & Carbon Pack",
+      "unit_price_usd": 20000,
+      "max_tokens_per_investor": 2,
+      "distribution": {
+        "solar_tokens": 50,
+        "carbon_tokens": 50
+      },
+      "impact": "Renewable energy infrastructure and carbon neutrality"
+    },
+    {
+      "round_id": 3,
+      "name": "Water Management Tokens",
+      "unit_price_usd": 50000,
+      "max_tokens_per_investor": 3,
+      "impact_area": "Hydric resource management and irrigation technology"
+    }
+  ],
+  "legal_framework": "Smart contracts linked to physical land and crop ownership records"
+}
